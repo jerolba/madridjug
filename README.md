@@ -1,4 +1,4 @@
-madridjug
-=========
+Madrid JUG
+==========
 
-Contenido generado por el grupo de usuarios MadridJUG
+En este repositorio podrás encontrar muchos de los contentidos generado por el grupo de usuarios MadridJUG
